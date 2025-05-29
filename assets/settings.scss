@@ -1,0 +1,5 @@
+// Vuetify 样式配置
+@use 'vuetify/settings' with (
+  $utilities: false,
+  $color-pack: false,
+); 
