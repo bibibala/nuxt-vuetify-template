@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar color="primary" elevation="1">
+    <v-app-bar density="compact" color="primary" elevation="1">
       <v-app-bar-title class="text-h5 font-weight-bold">
         Nuxt vuetify
       </v-app-bar-title>
